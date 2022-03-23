@@ -1,9 +1,6 @@
-### Hello! I am Ana Neumann <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+### Hello! Welcome to my page! I am *Ana Neumann* <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-- 🔭 I currently work as a commercial intern on Trizy.
 - 🌱 I’m currently learning Python and Data Science.
-- 👯 I’m looking to collaborate on basic and entry level tasks in Python.
-- 🤔 I’m looking for help with how to start in IT area 😁.
 - 📫 How to reach me: anacarolneumann@gmail.com
 - 😄 Pronouns: she/her.
 <div align="center">
