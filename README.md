@@ -15,6 +15,7 @@ My background bridges **Mechanical Engineering** (UTFPR) and **Data Engineering*
 **Languages & Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -58,6 +59,7 @@ Web scraping pipeline for structured data extraction — foundation for automate
 `Python` · `BeautifulSoup`
 
 ---
+
 
 
 ## 🌐 Let's connect
