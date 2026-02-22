@@ -1,4 +1,4 @@
-# Hi, I'm Ana Carolina Branco Neumann 👋
+# Hi, I'm Ana 💻
 
 **Data Scientist @ The HEINEKEN Company · Brazil**
 
