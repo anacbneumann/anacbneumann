@@ -54,7 +54,7 @@ Exploratory Data Analysis (EDA) on a Kaggle dataset covering deforestation acros
 
 ---
 
-### 🕸️ [[credit-risk-cost-sensitive](https://github.com/anacbneumann/simple_webscraping](https://github.com/anacbneumann/credit-risk-cost-sensitive)](https://github.com/anacbneumann/credit-risk-cost-sensitive)
+### 💰 [credit-risk-cost-sensitive](https://github.com/anacbneumann/credit-risk-cost-sensitive)
 In progress - Cost-sensitive credit scoring with threshold tuning (FP/FN cost matrix) using the “Give Me Some Credit” dataset.
 `R` · `LogisticRegression`
 
