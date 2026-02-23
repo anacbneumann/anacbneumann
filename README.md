@@ -54,9 +54,9 @@ Exploratory Data Analysis (EDA) on a Kaggle dataset covering deforestation acros
 
 ---
 
-### 🕸️ [simple_webscraping](https://github.com/anacbneumann/simple_webscraping)
-Web scraping pipeline for structured data extraction — foundation for automated data collection workflows.
-`Python` · `BeautifulSoup`
+### 🕸️ [simple_webscraping](https://github.com/anacbneumann/simple_webscraping](https://github.com/anacbneumann/credit-risk-cost-sensitive)
+In progress - Cost-sensitive credit scoring with threshold tuning (FP/FN cost matrix) using the “Give Me Some Credit” dataset.
+`R` · `LogisticRegression`
 
 ---
 
